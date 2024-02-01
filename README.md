@@ -12,7 +12,7 @@ Example app should be free of all game internals.
 
 ## Available games
 > Updated as experimented
-- [ ] 
+- [ ] Four pictures one word as (https://github.com/shuttlershq/gamification/shut_pics)[shut pics]
 
 ## Author
 (https://github.com/mastersam07)[Samuel]
